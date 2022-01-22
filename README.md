@@ -4,7 +4,7 @@
 **Get exam guides and questions**
 https://www.examtopics.com/exams/comptia/sy0-601/view/
 
-**Tutorials.org - your source for thousands online tutorials, useful tips, articles, and researched recommendations.**
+**Tutorials.org- tutorials, useful tips, articles**
 http://etutorials.org/Networking/network+management/Part+II+Implementations+on+the+Cisco+Devices/Chapter+9.+AAA+Accounting/High-Level+Comparison+of+RADIUS+TACACS+and+Diameter/
 
 **OWASP Open Web Application Security Project® (OWASP** 
