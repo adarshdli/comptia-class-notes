@@ -1,11 +1,11 @@
 # Comptia class ref links
 
 ## Tutorials and guides
-[Examtopics: Get exam guides and questions](https://www.examtopics.com/exams/comptia/sy0-601/view/){:target="_blank"}
+[Examtopics: Get exam guides and questions](https://www.examtopics.com/exams/comptia/sy0-601/view/)
 
 [eTutorials: Tutorials.org- tutorials, useful tips, articles](http://etutorials.org/Networking/network+management/Part+II+Implementations+on+the+Cisco+Devices/Chapter+9.+AAA+Accounting/High-Level+Comparison+of+RADIUS+TACACS+and+Diameter/)
 
-[OWASP Open Web Application Security Project](https://owasp.org/){:target="_blank"}
+[OWASP Open Web Application Security Project](https://owasp.org/)
 
 [CEH Files](https://onedrive.live.com/?authkey=%21ALMBonmR9%2DowlVI&id=B7FF1144F947C513%2142689&cid=B7FF1144F947C513)
 
