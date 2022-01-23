@@ -9,6 +9,8 @@
 
 [CEH Files](https://onedrive.live.com/?authkey=%21ALMBonmR9%2DowlVI&id=B7FF1144F947C513%2142689&cid=B7FF1144F947C513)
 
+[Maersk: Springing back from Wannacry cyber-attack (book)](https://www.i-cio.com/management/insight/item/maersk-springing-back-from-a-catastrophic-cyber-attack)
+
 ## Toools, scripts, and apps
 
 [WifiJammer](https://github.com/DanMcInerney/wifijammer)
@@ -18,3 +20,9 @@
 [Powershell: Add a folder to the exclusion list](https://docs.microsoft.com/en-us/powershell/module/defender/add-mppreference?view=windowsserver2022-ps#:~:text=The%20Add-MpPreference%20cmdlet%20modifies,%2C%20moderate%2C%20and%20low%20threats)
 
 [Postman](https://www.postman.com/)
+
+[MITRE ATT&CK - knowledge base of adversary tactics and techniques based on real-world observations](https://attack.mitre.org/)
+
+[Autopsy - Digital Forensics software](https://www.autopsy.com/)
+
+[OpenText EnCase Forensic Software](OpenText EnCase Forensic Software)
