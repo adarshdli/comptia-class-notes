@@ -9,7 +9,7 @@
 
 [CEH Files](https://onedrive.live.com/?authkey=%21ALMBonmR9%2DowlVI&id=B7FF1144F947C513%2142689&cid=B7FF1144F947C513)
 
-[Maersk: Springing back from Wannacry cyber-attack (book)](https://www.i-cio.com/management/insight/item/maersk-springing-back-from-a-catastrophic-cyber-attack)
+[Book review- Maersk: Springing back from Wannacry cyber-attack](https://www.i-cio.com/management/insight/item/maersk-springing-back-from-a-catastrophic-cyber-attack)
 
 ## Toools, scripts, and apps
 
@@ -25,4 +25,4 @@
 
 [Autopsy - Digital Forensics software](https://www.autopsy.com/)
 
-[OpenText EnCase Forensic Software](OpenText EnCase Forensic Software)
+[OpenText EnCase Forensic Software](https://security.opentext.com/encase-forensic)
