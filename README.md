@@ -11,6 +11,8 @@
 
 [Book review- Maersk: Springing back from Wannacry cyber-attack](https://www.i-cio.com/management/insight/item/maersk-springing-back-from-a-catastrophic-cyber-attack)
 
+[Types of fire](https://www.businesswatchgroup.co.uk/fire-services/fire-extinguishers/types/)
+
 ## Toools, scripts, and apps
 
 [WifiJammer](https://github.com/DanMcInerney/wifijammer)
