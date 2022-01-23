@@ -1,6 +1,5 @@
 # Comptia class ref links
 
-## Tutorials and guides
 [Examtopics: Get exam guides and questions](https://www.examtopics.com/exams/comptia/sy0-601/view/)
 
 [eTutorials: Tutorials.org- tutorials, useful tips, articles](http://etutorials.org/Networking/network+management/Part+II+Implementations+on+the+Cisco+Devices/Chapter+9.+AAA+Accounting/High-Level+Comparison+of+RADIUS+TACACS+and+Diameter/)
