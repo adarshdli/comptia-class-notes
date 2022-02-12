@@ -31,3 +31,18 @@
 [AlienVault OSSIM](https://cybersecurity.att.com/products/ossim)
 
 [Glasswire Firewall](https://www.glasswire.com/)
+
+https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content
+
+https://www.cdse.edu/Training/Security-Training-Videos/Counterintelligence/
+
+https://niccs.cisa.gov/workforce-development/cyber-security-workforce-framework
+
+https://www.nist.gov/cyberframework/online-learning
+
+https://tech.gsa.gov/guides/effective_user_stories/
+
+https://cloudsecurityalliance.org/blog/2021/09/09/six-pillars-of-devsecops-series/
+
+https://osintframework.com/
+
