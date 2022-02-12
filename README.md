@@ -46,3 +46,4 @@ https://cloudsecurityalliance.org/blog/2021/09/09/six-pillars-of-devsecops-serie
 
 https://osintframework.com/
 
+https://circle.cloudsecurityalliance.org/community-home1/digestviewer/viewthread?MessageKey=7127fa04-3e49-49de-9b0f-3fa727b33db1&CommunityKey=fed0970b-dfd3-4de0-a718-68630e77c5db&tab=digestviewer&bm=7127fa04-3e49-49de-9b0f-3fa727b33db1#bm7127fa04-3e49-49de-9b0f-3fa727b33db1
